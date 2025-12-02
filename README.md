@@ -1,6 +1,6 @@
 ![script](https://raw.githubusercontent.com/xp7k/stun/refs/heads/main/script.png)
 
-# STUN: Distributed AI Network on Blockchain
+# STUN: AI Blockchain Network
 
 ## Strategic Planning Documents
 
