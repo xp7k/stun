@@ -25,3 +25,4 @@ module.exports = {
   ignorePatterns: ['dist', 'build', '.turbo', 'node_modules', '*.config.js'],
 };
 
+

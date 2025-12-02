@@ -1,4 +1,7 @@
+![script](https://raw.githubusercontent.com/xp7k/stun/refs/heads/main/script.png)
+
 # STUN: Distributed AI Network on Blockchain
+
 ## Strategic Planning Documents
 
 This repository contains comprehensive strategic planning documents for building a distributed AI network on blockchain that enables GPU owners to earn tokens for providing compute power.
